@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/shadow1ng/fscan/Plugins"
-	"github.com/shadow1ng/fscan/common"
+	"github.com/coskper-papa/fscan/Plugins"
+	"github.com/coskper-papa/fscan/common"
 	"time"
 )
 
